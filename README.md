@@ -80,3 +80,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 - [Using the iTwin Platform](https://developer.bentley.com/)
 
 - [iTwin Developer Program](https://www.youtube.com/playlist?list=PL6YCKeNfXXd_dXq4u9vtSFfsP3OTVcL8N)
+
+![alt text](https://github.com/sureshalagarsamy/digital-twin/assets/6780840/9417af33-e91e-44ca-8908-9ebc83125029)
